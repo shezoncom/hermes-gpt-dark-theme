@@ -1,0 +1,10 @@
+name: hermes-gpt-dark-theme
+version: "1.0.0"
+description: "A ChatGPT-inspired dark interface theme for Hermes Desktop."
+author: shezoncom
+kind: standalone
+requires_hermes: ">=0.22.0"
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
+requires_env: []
