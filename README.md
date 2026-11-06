@@ -6,6 +6,10 @@ A carefully crafted, ChatGPT-inspired interface featuring blue user-message bubb
 
 > Independent community project. Not affiliated with or endorsed by Nous Research or OpenAI.
 
+## Preview
+
+![Hermes GPT Dark Theme](screenshots/main.png)
+
 ## Features
 
 - Rounded blue message bubbles for user messages (`#173E76`)
